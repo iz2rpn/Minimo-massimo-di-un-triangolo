@@ -14,7 +14,7 @@
 
 int main()
 {
-    float a, b, c, area,p, min=FLT_MIN, max=FLT_MAX;
+    float a, b, c, area,p, min=FLT_MAX, max=FLT_MIN;
     char file[FILENAME_MAX];
     FILE *fp;
 
